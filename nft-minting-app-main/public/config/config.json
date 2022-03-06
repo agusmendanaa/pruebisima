@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0D3CcB7c6cC04a88f965D2A6816A93163D4b64d2",
+  "SCAN_LINK": "https://polygonscan.com/address/0x0d3ccb7c6cc04a88f965d2a6816a93163d4b64d2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Prueba NFT",
+  "SYMBOL": "TSTNFT",
+  "MAX_SUPPLY": 954,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nftstr-v2",
+  "SHOW_BACKGROUND": true
+}
